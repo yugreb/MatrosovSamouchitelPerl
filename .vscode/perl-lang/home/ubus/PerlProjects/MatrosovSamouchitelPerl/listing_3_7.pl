@@ -1,0 +1,1 @@
+{"version":5,"vars":[{"containerName":null,"line":2,"kind":13,"name":"%friend"},{"line":8,"containerName":null,"kind":13,"name":"%city"},{"containerName":null,"line":14,"kind":13,"name":"%job"},{"name":"$person","kind":13,"line":20,"containerName":null}]}
