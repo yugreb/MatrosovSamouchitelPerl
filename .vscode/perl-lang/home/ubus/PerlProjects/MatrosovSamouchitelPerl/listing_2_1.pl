@@ -1,1 +1,0 @@
-{"vars":[{"kind":13,"containerName":null,"line":3,"name":"$name"},{"name":"NAME_FORMAT","line":8,"kind":12},{"name":"NAME_FORMAT_BOTTOM","line":11,"kind":12},{"name":"NAME_FORMAT","line":14,"kind":12},{"line":20,"kind":12,"name":"NAME_FORMAT_TOP"},{"name":"NAME_FORMAT_BOTTOM","kind":12,"line":26}],"version":5}
